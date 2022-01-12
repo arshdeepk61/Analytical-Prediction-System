@@ -1,0 +1,9 @@
+com\uwindsor\reccomendationsystem\controller\MainController.class
+com\uwindsor\reccomendationsystem\services\GetRequestDummy.class
+com\uwindsor\reccomendationsystem\dao\AppUser.class
+com\uwindsor\reccomendationsystem\model\Movie.class
+com\uwindsor\reccomendationsystem\model\Credit.class
+com\uwindsor\reccomendationsystem\repository\CreditRepo.class
+com\uwindsor\reccomendationsystem\repository\MovieRepo.class
+com\uwindsor\reccomendationsystem\ReccomendationsystemApplication.class
+com\uwindsor\reccomendationsystem\repository\UserRepository.class
